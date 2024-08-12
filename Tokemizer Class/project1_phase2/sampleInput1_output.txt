@@ -1,0 +1,38 @@
+
+The following is a list of well-formed HTML tags.
+
+br appeared in the following 2 locations.
+	[ 9, 466] <br -- [ 9, 470] />
+	[17, 774] <br -- [17, 778] />
+
+p appeared in the following 4 locations.
+	[ 9, 441] <p -- [ 9, 490] </p
+	[17, 743] <p -- [17, 805] </p
+	[25, 1062] <p -- [25, 1084] </p
+	[30, 1119] <p -- [30, 1128] </p
+
+table appeared in the following location.
+	[ 1,   1] <table -- [29, 1110] </table
+
+tbody appeared in the following location.
+	[ 3, 152] <tbody -- [28, 1101] </tbody
+
+td appeared in the following 12 locations.
+	[ 5, 232] <td -- [ 5, 284] </td
+	[ 6, 290] <td -- [ 6, 339] </td
+	[ 7, 345] <td -- [ 7, 396] </td
+	[ 8, 402] <td -- [10, 495] </td
+	[13, 534] <td -- [13, 586] </td
+	[14, 592] <td -- [14, 641] </td
+	[15, 647] <td -- [15, 698] </td
+	[16, 704] <td -- [18, 810] </td
+	[21, 894] <td -- [21, 946] </td
+	[22, 952] <td -- [22, 987] </td
+	[23, 993] <td -- [23, 1031] </td
+	[24, 1037] <td -- [26, 1089] </td
+
+tr appeared in the following 3 locations.
+	[ 4, 160] <tr -- [11, 501] </tr
+	[12, 507] <tr -- [19, 816] </tr
+	[20, 822] <tr -- [27, 1095] </tr
+

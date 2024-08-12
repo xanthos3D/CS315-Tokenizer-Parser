@@ -1,0 +1,46 @@
+[ 2, 112] </td (with close angle bracket [ 2, 116] >) doesn't have a matching open tag. Will discard it.
+[ 3, 118] <td is missing a '>' or '/>'. Will discard it.
+[ 7, 227] </tr (with close angle bracket [ 7, 231] >) doesn't have a matching open tag. Will discard it.
+[12, 430] <td is missing a '>' or '/>'. Will discard it.
+[12, 448] < ignoring random open angle-bracket.
+[12, 455] > ignoring random close angle-bracket.
+[12, 470] > ignoring random close angle-bracket.
+[13, 526] </tr closes while the following tags remain open.
+	[13, 484] <em
+	[13, 472] <p
+[15, 561] </tr (with close angle bracket [15, 565] >) doesn't have a matching open tag. Will discard it.
+[16, 639] > ignoring random close angle-bracket.
+[24, 848] </tbody (with close angle bracket [24, 855] >) doesn't have a matching open tag. Will discard it.
+[25, 857] </table (with close angle bracket [25, 864] >) doesn't have a matching open tag. Will discard it.
+
+The following is a list of well-formed HTML tags.
+
+br appeared in the following 2 locations.
+	[ 5, 192] <br -- [ 5, 196] />
+	[13, 507] <br -- [13, 511] />
+
+em appeared in the following location.
+	[13, 484] <em -- [13, 535] </em
+
+p appeared in the following 4 locations.
+	[ 5, 167] <p -- [ 5, 216] </p
+	[13, 472] <p -- [13, 550] </p
+	[21, 809] <p -- [21, 831] </p
+	[26, 866] <p -- [26, 875] </p
+
+td appeared in the following 11 locations.
+	[ 1,   1] <td -- [ 1,  50] </td
+	[ 2,  56] <td -- [ 2, 105] </td
+	[ 4, 128] <td -- [ 6, 221] </td
+	[ 9, 260] <td -- [ 9, 312] </td
+	[10, 318] <td -- [10, 367] </td
+	[11, 373] <td -- [11, 424] </td
+	[ 3, 122] <td -- [14, 555] </td
+	[17, 641] <td -- [17, 693] </td
+	[18, 699] <td -- [18, 734] </td
+	[19, 740] <td -- [19, 778] </td
+	[20, 784] <td -- [22, 836] </td
+
+tr appeared in the following location.
+	[16, 567] <tr -- [23, 842] </tr
+

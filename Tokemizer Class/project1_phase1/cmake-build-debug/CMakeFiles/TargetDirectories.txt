@@ -1,0 +1,3 @@
+F:/BackUpFiles/Classwork/cs 315/project1/project1_phase1 in blue/project1_phase1/cmake-build-debug/CMakeFiles/project1_phase1.dir
+F:/BackUpFiles/Classwork/cs 315/project1/project1_phase1 in blue/project1_phase1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/BackUpFiles/Classwork/cs 315/project1/project1_phase1 in blue/project1_phase1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
